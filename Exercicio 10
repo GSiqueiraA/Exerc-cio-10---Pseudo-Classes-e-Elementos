@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+a:link { color: darkgreen;
+text-decoration: none }
+a:link:visited { color: maroon; }
+a:link:hover { color: yellow; }
+a:link:active { color: blue; }
+
+</style>
+</head>
+<body>
+
+<ul>
+<li><p>&#x279D;<a href="https://capuccino.iff.edu.br/idp/profile/Logout?execution=e4s1">Link 1</a></p></li>
+
+<li><p>&#x279D;<a href="https://www.w3schools.com/">Link 2</a></p></li>
+
+<li><p>&#x279D;<a href="https://www.w3schools.com/">Link 3</a></p></li>
+
+<li><p>&#x279D;<a href="https://www.w3schools.com/">Link 4</a></p></li>
+
+<li><p>&#x279D;<a href="https://www.w3schools.com/">Link 5</a></p></li>
+
+<li><p>&#x279D;<a href="https://www.w3schools.com/">Link 6</a></p></li>
+</ul>
+
+</body>
+</html>
