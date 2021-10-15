@@ -14,17 +14,17 @@ a:link:active { color: blue; }
 <body>
 
 <ul>
-<li><p>&#x279D;<a href="https://capuccino.iff.edu.br/idp/profile/Logout?execution=e4s1">Link 1</a></p></li>
+<li><p>&#x279D;<a href="https://github.com/GSiqueiraA/Exerc-cio-10---Pseudo-Classes-e-Elementos/commit/d169d439d9833645acd240bff94fdc0fba9fe1bc">Link 1</a></p></li>
 
-<li><p>&#x279D;<a href="https://www.w3schools.com/">Link 2</a></p></li>
+<li><p>&#x279D;<a href="https://ead2.iff.edu.br/course/view.php?id=14707">Link 2</a></p></li>
 
-<li><p>&#x279D;<a href="https://www.w3schools.com/">Link 3</a></p></li>
+<li><p>&#x279D;<a href="https://ead2.iff.edu.br/mod/assign/view.php?id=466024">Link 3</a></p></li>
 
-<li><p>&#x279D;<a href="https://www.w3schools.com/">Link 4</a></p></li>
+<li><p>&#x279D;<a href="https://ead2.iff.edu.br/course/view.php?id=14708">Link 4</a></p></li>
 
-<li><p>&#x279D;<a href="https://www.w3schools.com/">Link 5</a></p></li>
+<li><p>&#x279D;<a href="https://ead2.iff.edu.br/mod/assign/view.php?id=466023">Link 5</a></p></li>
 
-<li><p>&#x279D;<a href="https://www.w3schools.com/">Link 6</a></p></li>
+<li><p>&#x279D;<a href="https://github.com/GSiqueiraA/Exerc-cio-09---CSS-B-sico/commit/9fd5549ccecb8418de0a48f6b2031bfbb67a8413#diff-ee1f100f3e2be18d7d33ffc82b644b83d80b167eea56a198f241f97f498fc6f7">Link 6</a></p></li>
 </ul>
 
 </body>
